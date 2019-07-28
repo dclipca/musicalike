@@ -7,6 +7,8 @@ to generate lists of similar artists.
     <source src="https://github.com/virtumonde/musicalike/blob/master/video.mp4?raw=true"></source> 
     <source src="https://github.com/virtumonde/musicalike/blob/master/video.mp4?raw=true"></source> 
 </video>
+<video src="https://github.com/virtumonde/musicalike/blob/master/video.mp4?raw=true" width="320" height="200" controls preload></video>
+
 
 Clone the repository, then install the
 dependencies:
