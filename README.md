@@ -1,7 +1,7 @@
 # MusicAlike
 [Video Demonstration](https://github.com/virtumonde/musicalike/blob/master/demo/demo.mp4?raw=true)
 
-Input: Queen             |  Input: Johann Sebastian Bach         
+Input: Johann Sebastian Bach | Input: Queen
 :-------------------------:|:-------------------------:
 ![](https://github.com/virtumonde/musicalike/blob/master/demo/demo_2.gif?raw=true)  |  ![](https://github.com/virtumonde/musicalike/blob/master/demo/demo_3.gif?raw=true)
 
