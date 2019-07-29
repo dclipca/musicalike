@@ -17,10 +17,12 @@ Running the app requires Node, the React Native command line interface, a JDK, a
 react-native init SimpleProject
 # then
 cd SimpleProject
+
 # then
 npm install
 # or
 yarn
+
 # then
 react-native run-android
 ```
@@ -40,6 +42,7 @@ To run the project:
 yarn start
 # or
 nmp start
-# and
+
+# then
 react-native run-android
 ```
