@@ -26,6 +26,6 @@ yarn start
 # or
 nmp start
 
-# then
+# then in a new terminal
 react-native run-android
 ```
