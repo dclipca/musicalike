@@ -1,11 +1,11 @@
 # MusicAlike
 [Video Demonstration](https://github.com/virtumonde/musicalike/blob/master/demo/demo.mp4?raw=true)
 
-Solarized dark             |  Solarized Ocean          
+Input: Queen             |  Input: Johann Sebastian Bach         
 :-------------------------:|:-------------------------:
 ![](https://github.com/virtumonde/musicalike/blob/master/demo/demo_2.gif?raw=true)  |  ![](https://github.com/virtumonde/musicalike/blob/master/demo/demo_3.gif?raw=true)
 
-![Hello](https://github.com/virtumonde/musicalike/blob/master/demo/demo_1gif?raw=true)
+![Input: The Rolling Stones](https://github.com/virtumonde/musicalike/blob/master/demo/demo_1.gif?raw=true)
 
 
 
