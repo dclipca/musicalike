@@ -1,7 +1,6 @@
 # MusicAlike
 [Video Demonstration](https://github.com/virtumonde/musicalike/blob/master/video.mp4?raw=true)
 
-![Alt Text](https://github.com/virtumonde/musicalike/blob/master/demo/demo_1.gif?raw=true)
 ![Alt Text](https://github.com/virtumonde/musicalike/blob/master/demo/demo_2.gif?raw=true)
 ![Alt Text](https://github.com/virtumonde/musicalike/blob/master/demo/demo_3.gif?raw=true)
 
