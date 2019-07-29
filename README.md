@@ -23,11 +23,11 @@ yarn
 To run the project:
 
 ```
-yarn start
+npm start
 
 # or
 
-nmp start
+yarn start
 
 # then in a new terminal
 
