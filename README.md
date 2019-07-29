@@ -6,7 +6,7 @@ Input: Johann Sebastian Bach | Input: Queen
 ![](https://github.com/virtumonde/musicalike/blob/master/demo/demo_2.gif?raw=true)  |  ![](https://github.com/virtumonde/musicalike/blob/master/demo/demo_3.gif?raw=true)
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/virtumonde/musicalike/blob/master/demo/demo_1.gif?raw=true">
+  <img src="https://github.com/virtumonde/musicalike/blob/master/demo/demo_1.gif?raw=true">
 </p>
 
 
