@@ -5,8 +5,9 @@ Input: Johann Sebastian Bach | Input: Queen
 :-------------------------:|:-------------------------:
 ![](https://github.com/virtumonde/musicalike/blob/master/demo/demo_2.gif?raw=true)  |  ![](https://github.com/virtumonde/musicalike/blob/master/demo/demo_3.gif?raw=true)
 
-![Input: The Rolling Stones](https://github.com/virtumonde/musicalike/blob/master/demo/demo_1.gif?raw=true)
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/virtumonde/musicalike/blob/master/demo/demo_1.gif?raw=true">
+</p>
 
 
 Using [Last.FM API](https://www.last.fm/api/) and [Youtube Data API](https://developers.google.com/youtube/v3/)
