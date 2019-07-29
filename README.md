@@ -12,6 +12,19 @@ Input: Johann Sebastian Bach | Input: Queen
 Using [Last.FM API](https://www.last.fm/api/) and [Youtube Data API](https://developers.google.com/youtube/v3/)
 to generate lists of similar artists.
 
+Running the app requires Node, the React Native command line interface, a JDK, and Android Studio. Follow [the official React Native docs](https://facebook.github.io/react-native/docs/getting-started) for installation instructions. After you have followed the instructions and confirm that everything works by executing a simple project:
+```
+react-native init SimpleProject
+# then
+cd SimpleProject
+# then
+npm install
+# or
+yarn
+# then
+react-native run-android
+```
+
 Clone the repository, then install the
 dependencies:
 
@@ -25,6 +38,8 @@ To run the project:
 
 ```
 yarn start
+# or
+nmp start
 # and
 react-native run-android
 ```
