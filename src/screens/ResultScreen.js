@@ -21,7 +21,7 @@ class ResultScreen extends React.Component {
                 match = artistArray.match
                 modifiedGetSimilarResponse.push({name, match})})
                 modifiedGetSimilarResponse.forEach(artist => { 
-                YTSearch({ key: 'AIzaSyBj7VSyHRygjeVcMiqp903kM5AfOkXi3pY', term: artist['name'], maxResults: 1}, searchResult => {
+                YTSearch({ key: 'AIzaSyCIjfFKB5LuYPf4LB6gVhFVWnKZHejp45s', term: artist['name'], maxResults: 1}, searchResult => {
                 artist['videoId'] = (searchResult[0].id.videoId)
                 artist['isShown'] = false })})})
             .then(() => {
