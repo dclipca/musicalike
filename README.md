@@ -32,4 +32,10 @@ yarn start
 # then in a new terminal
 
 react-native run-android
+
+# or
+
+react-native run-ios
+
+# The app was tested only on Android
 ```
