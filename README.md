@@ -36,6 +36,4 @@ react-native run-android
 # or
 
 react-native run-ios
-
-# the app was tested only on Android
 ```
